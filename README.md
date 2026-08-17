@@ -1,7 +1,7 @@
  me-in-markdown
 
 # **Letter to Mr.Aiello**
-** Hello Mr.Aiello my name is Jose Hernandez.I like going outside,playing video games and drawing. My favorite type of art is Mexican-American art. I have been into Mexican American art since seventh grade when i met a friend who showed me that type of art style. Here is one of my art peices. 
+ Hello Mr.Aiello my name is Jose Hernandez.I like going outside,playing video games and drawing. My favorite type of art is Mexican-American art. I have been into Mexican American art since seventh grade when i met a friend who showed me that type of art style. Here is one of my art peices. 
 ![my art](<
 This peice of art was inspired by a drawing that i saw of the vergin mary praying and i thought of a art idea right there and i came up with this drawing of the virgin mary with my last name on the side.
 
